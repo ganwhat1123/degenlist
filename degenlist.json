@@ -1,10 +1,10 @@
 {
-  "name": "token List",
+  "name": "Degen Token List",
   "timestamp": "2022-06-21T00:00:00.000Z",
-  "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
   "version": {
-    "major": 11,
-    "minor": 3,
+    "major": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
