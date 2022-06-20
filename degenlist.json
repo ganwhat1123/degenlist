@@ -1,0 +1,52 @@
+{
+  "name": "token List",
+  "timestamp": "2022-06-21T00:00:00.000Z",
+  "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png",
+  "version": {
+    "major": 11,
+    "minor": 3,
+    "patch": 0
+  },
+  "tokens": [
+   {
+      "name": "Wrapped BTC - Nomad",
+      "symbol": "WBTC",
+      "chainId": 97,
+      "decimals": 8,
+      "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "chainId": 97,
+      "decimals": 18,
+      "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 97,
+      "decimals": 18,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 97,
+      "decimals": 6,
+      "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "chainId": 97,
+      "decimals": 6,
+      "address": "0x3B00Ef435fA4FcFF5C209a37d1f3dcff37c705aD",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    } 
+  ]
+}
