@@ -9,20 +9,12 @@
   },
   "tokens": [
    {
-      "name": "Wrapped BTC - Nomad",
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
       "chainId": 4,
       "decimals": 8,
       "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
       "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
     },
     {
       "name": "Wrapped Ether",
@@ -31,6 +23,14 @@
       "decimals": 18,
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "chainId": 4,
+      "decimals": 18,
+      "address": "0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
     },
     {
       "name": "USD Coin",
